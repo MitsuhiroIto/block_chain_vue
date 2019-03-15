@@ -1,5 +1,11 @@
 # block_chain_demo
-![sample](./static/sample.gif)
+![sample](./static/sample.gif) 
+---  
+
+
+truffleを使用  
+https://github.com/trufflesuite/truffle
+![sample](./static/1.png)
 #### Version Information
 truffle: Version 3.0.5+ required.
 
